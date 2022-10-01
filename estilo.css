@@ -1,19 +1,24 @@
 body {
   background-color: #f9f9f9;
   font-family: sans-serif ;
+  margin: 10px;
+  margin-top: 10px;
+  display: flex;
 }
 
 .menu-topo {
   background-color: #FFFFFF;
   height: 60px;
-  display: block;
-  justify-content: center;
-  align-items: center;
-}
+  display: flex;
+  justify-content: column;
+  
+  }
 .logo {
   display: flex;
   justify-content: center;
 }
+
+
 .buscaTopicos{
   background-color: #FFFFFF;
   width: 100%;  /* é largura */
