@@ -280,13 +280,13 @@ a:hover {
   .headlineText {
     text-decoration-color: #cd150b;
   }
+  
+  .headlineText {
+    font-weight: 700;
+  }
 
   .headline-title {
     font-size: 32px;
-  }
-
-  .headlineText {
-    font-weight: 700;
   }
 
    .politics {
@@ -363,14 +363,16 @@ a:hover {
     margin: 0;
   }
 
-  .sports {
-    color: #06aa48;
-  }
+  
 
   .column.second-column:last-child {
     max-width: none;
   }
 
+  .sports {
+    color: #06aa48;
+  }
+  
   .tv {
     color: #ff8203;
   }
