@@ -20,20 +20,19 @@ Layout para mobile:
 - Imagens
 
 # Requisitos Bônus
-    - [X]  A logo deve mudar para a logo mobile;
-    - [X]  O menu de navegação deve ficar embaixo da logo;
-    - [X]  As notícias devem ficar empilhadas, conforme mostra o layout móvel.
+ - [X] A logo deve mudar para a logo mobile;
+ - [X] O menu de navegação deve ficar embaixo da logo;
+ - [X]  As notícias devem ficar empilhadas, conforme mostra o layout móvel.
 
 
 
 
 #####
 
-       {
-      {   }
-       } {   {
+  
+      
     .-{ --}-- }-.
-   (   }     {   )
+   (   )
    |`-.._____..-'|
    |             ;--.
    |            (__  \
